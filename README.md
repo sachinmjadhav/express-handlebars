@@ -4,7 +4,11 @@ An Express API with Handlebars front-end
 A CRUD API for Members with a front-end built with Handlebars
 
 Install Dependencies: <br/>
-<code>npm install</code>
+```
+npm install
+```
 
 Start development server: <br/>
-<code>npm run dev</code>
+```
+npm run dev
+```
